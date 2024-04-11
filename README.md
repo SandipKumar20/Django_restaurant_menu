@@ -1,0 +1,1 @@
+# A website which displays the various menu items in a restaurant. The website is created using the django framework. One can get the info about a particular dish by clicking on the item. One can access the website by using the qr code(qr.png). The data related to each dish is stored in an sqlite database.
